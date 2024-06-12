@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-image:linear-gradient(to right,#7B0DF0, #431e69,
+    #1e1d20, #000000);
+}
+
+.primario{
+    background-color: rgb(21, 19, 19);
+    text-align: center; font-family: Arial, "Helvetica Neue", 
+    Helvetica, sans-serif;
+    border-radius: 10px;
+    margin: auto;
+    width: 300px;
+    box-shadow: 5px 5px 10px rgb(165, 14, 165);
+    color: white;
+}
+main{
+    background-color: rgb(12, 12, 12);
+    width: 530px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(165, 14, 165);
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
